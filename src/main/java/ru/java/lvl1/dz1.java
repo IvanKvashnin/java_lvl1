@@ -28,7 +28,10 @@ public class dz1 {
 
     public static int task3(int a, int b, int c, int d) {
         return a * (b + (c / d));
+
     }
+
+
 
 
     //4. Написать метод, принимающий на вход два числа, и проверяющий что их сумма лежит в пределах
